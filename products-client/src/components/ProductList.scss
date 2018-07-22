@@ -1,0 +1,14 @@
+.product-list{
+
+    .card {
+        width: calc(100% - 16px)
+    }
+
+    .container {
+        width: 200px;
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+}
